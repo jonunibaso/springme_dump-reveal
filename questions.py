@@ -187,7 +187,7 @@ class Buscador():
 
 def main():
 
-	usuario = 'miguelagnes'
+	usuario = 'username'
 
 	busc = Buscador()
 
